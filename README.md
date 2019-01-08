@@ -1,4 +1,4 @@
-# Troop 1610 Website
+# Cross Timbers Day Camp Website
 
 ## Author
 
