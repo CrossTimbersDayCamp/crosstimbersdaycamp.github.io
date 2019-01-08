@@ -23,7 +23,6 @@ author:
 
 pages_list:       
   News: '/news'
-  Date: '/date'
   Location: '/location'
   Unit Info: '/units'
   Family Info: '/families'
