@@ -21,9 +21,13 @@ author:
   url:               https://www.crosstimbersdistrict.org
   email:             cking@ckxng.com
 
-#pages_list:       
-#  Page 1: '/page1'
-#  Page 2: '/page2'
+pages_list:       
+  News: '/news'
+  Date: '/date'
+  Location: '/location'
+  Unit Info: '/units'
+  Family Info: '/families'
+  Registration: '/registration'
 
 
 # Custom vars
