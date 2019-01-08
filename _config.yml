@@ -25,7 +25,6 @@ pages_list:
   News: '/news'
   Location: '/location'
   Unit Info: '/units'
-  Family Info: '/families'
   Registration: '/registration'
 
 
