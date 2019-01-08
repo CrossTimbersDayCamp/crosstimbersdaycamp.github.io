@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Cross Timbers Twilight Camp
 tagline:             Cross Timbers District, Longhorn Council, BSA
-url:                 https://ctdaycamp.github.io
+url:                 https://crosstimbersdaycamp.github.io
 paginate:            10
 baseurl:             ""
 
@@ -33,7 +33,7 @@ pages_list:
 # Custom vars
 version:             2.0.0
 github:
-repo:                https://github.com/CrossTimbersDayCamp/ctdaycamp.github.io
+repo:                https://github.com/CrossTimbersDayCamp/crosstimbersdaycamp.github.io
 
 # Gems
 gems:
