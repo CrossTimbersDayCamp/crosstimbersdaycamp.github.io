@@ -2,16 +2,7 @@
 layout: page
 ---
 
-Come to Cub Scout Day Camp for outdoor adventure and Cub Scout FUN,
-with exciting themes like wild west, space exploration, dinosaurs,
-America’s heroes, and medieval times (knights, castles, dragons)! It’s
-a week of outdoor activities and programs for Cub Scouts of all ranks
-– not regularly found in den or pack activities, including BB gun
-safety & shooting, archery, hiking, water activities, and outdoor
-skills, as well as crafts, games, and advancement.
+Save the date for a week of Dino-riffic adventures!  Join us on June 10-14, 2019 at Trinity United Methodist Church for archery, BB, wrist rockets, crafts, STEM, games, dinosaurs, community service, end-of-week family campfire, and more!
 
-
-
-
-
+[![We are on Facebook!](/public/content/images/onfacebook.png)](https://www.facebook.com/CTDCamp/)
 
