@@ -26,6 +26,7 @@ pages_list:
   Location: '/location'
   Unit Info: '/units'
   Registration: '/registration'
+  Council Info: 'https://www.longhorncouncil.org/camps-properties/cub-scout-day-camp/cub-scout-day-camp/'
 
 
 # Custom vars
