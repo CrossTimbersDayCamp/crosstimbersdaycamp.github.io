@@ -3,8 +3,6 @@ layout: page
 title: Unit Information
 ---
 
-This page will be updated as we get closer to camp with additional information.
-
 ## Unit Liaison
 
 We are recruiting for unit liaison from each unit that will be sending scouts to our camp.  The unit liaison will be our point of contact for that unit and will help ensure that information is distributed to parents and that paperwork is filed out correctly and turned in on time.
@@ -13,14 +11,6 @@ We are recruiting for unit liaison from each unit that will be sending scouts to
 <script src="https://services.cognitoforms.com/s/pNW4nb7mv0OUkXZvPWTYcw"></script>
 <script>Cognito.load("forms", { id: "1" });</script>
 </div>
-
-## Online Registration
-
-The online registration system is now open, and your unit can register for camp at any time.
-
-[![Click to Register](/public/content/images/click-to-register.png)](https://scoutingevent.com/662-25620-60876)
-
-While it is technically possible for individual families to fill out the online registration directly, we encurage unit liaisons to facilitate this process, as the paper forms must still be submitted and the online registration system does not know how much camp card credit each family should get.
 
 ## Unit Registration Process
 
@@ -37,3 +27,11 @@ Unit liaisons should familiarize themselves with the [registration form](/regist
 9. Turn in all forms and documentation to camp staff
 
 The dates for the above activities are found in the registration packet.
+
+## Online Registration
+
+The online registration system is now open, and your unit can register for camp at any time.
+
+[![Click to Register](/public/content/images/click-to-register.png)](https://scoutingevent.com/662-25620-60876)
+
+While it is technically possible for individual families to fill out the online registration directly, we encurage unit liaisons to facilitate this process, as the paper forms must still be submitted and the online registration system does not know how much camp card credit each family should get.
