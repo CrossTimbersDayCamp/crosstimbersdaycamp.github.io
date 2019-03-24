@@ -23,6 +23,7 @@ author:
 
 pages_list:       
   News: '/news'
+  Calendar: '/calendar'
   Location: '/location'
   Unit Info: '/units'
   Registration: '/registration'
