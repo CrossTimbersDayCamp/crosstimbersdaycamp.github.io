@@ -6,7 +6,7 @@ Save the date for a week of Dino-riffic adventures!  Join us on June 10-14, 2019
 
 <p align="center"><a href="http://bit.ly/2UrlZF1"><img border="0" alt="Get Dinosaur Trained" src="/public/content/images/get-dinosaur-trained.png" /></a></p>
 
-<p align="center"><a href="https://www.facebook.com/CTDCamp/"><img width="250" height="250" alt="We are on Facebook!" src="/public/content/images/onfacebook.png" border="0" /></p>
+<p align="center"><a href="https://www.facebook.com/CTDCamp/"><img width="250" height="250" alt="We are on Facebook!" src="/public/content/images/onfacebook.png" border="0" /></a></p>
 
 <h2>Stay up to date with Dino-Email</h2>
 
