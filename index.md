@@ -8,7 +8,7 @@ Save the date for a week of Dino-riffic adventures!  Join us on June 10-14, 2019
 
 <p align="center"><a href="https://www.facebook.com/CTDCamp/"><img width="250" height="250" alt="We are on Facebook!" src="/public/content/images/onfacebook.png" border="0" /></p>
 
-## Stay up to date with Dino-Email
+<h2>Stay up to date with Dino-Email</h2>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
