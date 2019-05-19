@@ -1,18 +1,16 @@
 ---
 layout: post
-title: Last Day for Early Bird Pricing
+title: Early Bird Extension
 ---
 
-Unit Liaisons, this note is for you.  There are only 36 hours left to enter participant registrations to secure the early bird pricing of $110.  Any participants submitted to the online system after Mon 05-27-2019 11:59 PM will have to pay $130.
+_This post contains a correction.  The original post indicated that there was 36 hours remaining._
 
-We also encourage you to get tot lot, youth staff, and adults entered as well... but early-bird pricing only applies to participants.  So if you're running short on time, focus on getting the kids entered.
+Our original early-bird turn-in date was tomorrow, May 20th at 11:59pm.  At the 11th hour, we heard that the early bird deadline has been extended by one week.  This gives you until **Mon 05-27-2019 11:59 PM** to enter participant registration information into the online system to secure the early bird price of $110.
 
-If you have any questions, call or text the Camp Director, Cameron King.  His phone number is 682-999-0991.
+We also encourage you to get tot lot, youth staff, and adults entered as well... but early-bird pricing only applies to participants.  So if you're running short on time, focus on getting the kids entered.  The final cut-off for units to register everyone for camp online is 06-03-2019 11:59 PM. 
 
 - Parents can find a digital copy of the registration form here: [https://crosstimbersdaycamp.github.io/registration/](https://crosstimbersdaycamp.github.io/registration/)
 - Unit Liaisons can register participants here: [https://scoutingevent.com/662-25620-60876](https://scoutingevent.com/662-25620-60876)
-
-At this time we have 70 participants, 19 youth staff, and 26 adults registered.  We expect to see over 100 participants in camp, and we are excited to watch the numbers go up as we get closer and closer to camp.  We'll see you there! 
 
 ## Update on Training
 
