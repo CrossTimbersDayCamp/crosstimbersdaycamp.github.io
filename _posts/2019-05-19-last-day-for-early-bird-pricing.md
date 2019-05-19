@@ -3,8 +3,6 @@ layout: post
 title: Last Day for Early Bird Pricing
 ---
 
-## Last Day for Early Bird Pricing!
-
 Unit Liaisons, this note is for you.  There are only 36 hours left to enter participant registrations to secure the early bird pricing of $110.  Any participants submitted to the online system after Mon 05-27-2019 11:59 PM will have to pay $130.
 
 We also encourage you to get tot lot, youth staff, and adults entered as well... but early-bird pricing only applies to participants.  So if you're running short on time, focus on getting the kids entered.
