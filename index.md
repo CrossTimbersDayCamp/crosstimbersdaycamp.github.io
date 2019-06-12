@@ -2,9 +2,9 @@
 layout: page
 ---
 
-Save the date for a week of Dino-riffic adventures!  Join us on June 10-14, 2019 at Trinity United Methodist Church for archery, BB, wrist rockets, crafts, STEM, games, dinosaurs, community service, end-of-week family campfire, and more!
+Read the wednesday camp update here:
 
-<p align="center"><a href="http://bit.ly/2UrlZF1"><img border="0" alt="Get Dinosaur Trained" src="/public/content/images/get-dinosaur-trained.png" /></a></p>
+<iframe src="https://onedrive.live.com/embed?cid=FDB990AE1C7681FF&resid=FDB990AE1C7681FF%218455&authkey=ALNkXXqz4r0-mos&em=2" width="100%" height="800px" frameborder="0"></iframe>
 
 <p align="center"><a href="https://www.facebook.com/CTDCamp/"><img width="250" height="250" alt="We are on Facebook!" src="/public/content/images/onfacebook.png" border="0" /></a></p>
 
