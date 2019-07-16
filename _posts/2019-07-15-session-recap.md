@@ -7,7 +7,7 @@ We've finally gotten all of our loose ends tied up and have had a chance to refl
 
 We would love to hear from all of our parents!  Click on this link to fill out the post-camp survey: [bit.ly/XTTC2019](http://bit.ly/XTTC2019)
 
-Final update on shirts: we received shirts from council for those on our list whose kids did not receive the correct size. Please contact us at crosstimbersdaycamp@gmail.com if your scout still has not received the correct shirt size.
+Final update on shirts: we recieved shirts from council for those on our list whose kids did not recieve the correct size.  Please contact us at crosstimbersdaycamp@gmail.com if your scout still has not recieved the correct shirt size.
 
 If a scout attended camp every day, he likely completed the following requirements:
 
